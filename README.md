@@ -1,4 +1,4 @@
-# MatchingGame
+# Matching-Game
 
 This is a simple memory matching game where the user has to select 2 cards at a time to create matches.
 
