@@ -1,0 +1,44 @@
+h1{
+    width:60%;
+    color: lightseagreen;
+    padding: 15px;
+    margin-inline:250px;
+
+    text-align: center;
+    
+    border-width: 1px;
+    border-radius: 15px;
+    border:rgb(156, 144, 190);
+    border-style: solid;
+}
+
+h2{
+    float:left;
+    margin-left: 50px;
+    color:blueviolet;
+}
+
+
+body{
+    margin:0 auto; 
+    text-align: center;
+    background-color:#f7f3ff;
+}
+
+button{
+    border-radius: 30px;
+    background-color:azure;
+    padding:10px;
+    float:left;
+    margin-left: 50px;
+}
+
+.board{
+    height: 300px;
+    width: 400px;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
