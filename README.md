@@ -12,3 +12,5 @@ Additional major changes:
 3. Added a "How To Play" button
 4. Modified behaviour if match not successful
 5. Modified card images and game theme
+
+Images source: Monuments By Freepik and Globe by Turkkub from flaticon.com
